@@ -1,0 +1,4 @@
+version_0.0.2
+--> maintain initial position of planets
+--> refactor speed of revolution
+--> add ring of saturn
