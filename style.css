@@ -1,0 +1,40 @@
+    .galaxy {
+      background-image: url(http://wallpaperim.net/_data/i/upload/2014/09/26/20140926186472-c66f9359-me.jpg);
+    }
+
+    .orbits {
+      stroke: #666;
+      stroke-dasharray: 0.5;
+      stroke-width: 1;
+      fill: transparent;
+      fill-opacity: 0.4;
+    }
+
+    #sun {
+      fill: #FB7209;
+    }
+    #mercury {
+      fill: rgb(216, 189, 131);
+    }
+    #venus {
+      fill: rgb(241, 154, 87);
+    }
+    #earth {
+      fill: rgb(8, 172, 236) ;
+    }
+    #mars {
+      fill: rgb(247, 30, 30);
+    }
+    #jupiter {
+      fill: rgb(99, 58, 11);
+    } 
+    #saturn {
+      fill: rgb(201, 166, 11);
+    }       
+    #uranus {
+      fill: rgb(26, 42, 182);
+    }
+    #neptune {
+      fill: rgb(163, 174, 236);
+    }
+    
